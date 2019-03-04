@@ -1,19 +1,6 @@
 Web Based Web Creation Expert System - Made in Iran
 Version 1.0.0
 ********************************************************
--
--
--
--
--
-- Web programmer : Alireza Parsam       +98 903 722 0892
-- Android app    : Mohammad Asghar Pour
--
--
--
--
--
-********************************************************
 Shahid Chamran University of Guilan Province - 2018^1397
 ********************************************************
 
