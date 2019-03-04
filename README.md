@@ -6,7 +6,7 @@ Shahid Chamran University of Guilan Province - 2018^1397
 
 The Features of This Version!
 - Create Question(attribute)
-- Create Pptions(value)
+- Create Options(value)
 - Create Result(conclusion)
 - Delete a Node
 - Edit a Node
